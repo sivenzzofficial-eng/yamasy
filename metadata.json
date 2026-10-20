@@ -1,0 +1,6 @@
+{
+  "name": "Website Kelas 7.1 MTs Al-Mursyidiyyah",
+  "description": "Website resmi dan portal informasi kelas 7.1 MTs Al-Mursyidiyyah dengan jadwal pelajaran, struktur organisasi, dan profil siswa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

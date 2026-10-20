@@ -1,0 +1,242 @@
+{
+  "bannerImage": "https://files.catbox.moe/twd2b4.png",
+  "broadcastBanners": [
+    {
+      "id": "b-1",
+      "imageUrl": "https://files.catbox.moe/twd2b4.png",
+      "overlayText": "Broadcast Pengumuman Penting Kelas 7.1 MTS Al-Mursyidiyyah"
+    }
+  ],
+  "descriptionText": "text deks 1",
+  "adminPassword": "125533",
+  "customFeatures": [],
+  "galleryItems": [],
+  "classStructure": {
+    "waliKelas": "Ricka Dwi Aryani, S.Si",
+    "ketuaKelas": "M.zio",
+    "wakilKetua": "Akbar",
+    "sekretaris1": "",
+    "sekretaris2": "",
+    "bendahara1": "",
+    "bendahara2": "",
+    "seksiList": [
+      {
+        "id": "seksi-1",
+        "seksiName": "Seksi Kebersihan",
+        "personName": ""
+      },
+      {
+        "id": "seksi-2",
+        "seksiName": "Seksi Keamanan",
+        "personName": ""
+      },
+      {
+        "id": "seksi-3",
+        "seksiName": "Seksi Keagamaan",
+        "personName": ""
+      },
+      {
+        "id": "seksi-4",
+        "seksiName": "Seksi Olahraga",
+        "personName": ""
+      }
+    ]
+  },
+  "students": [
+    {
+      "id": 1,
+      "name": "Given",
+      "birthDate": "19 September 2013",
+      "hobby": "Coding",
+      "image": "https://files.catbox.moe/twd2b4.png"
+    },
+    {
+      "id": 2,
+      "image": "",
+      "name": "",
+      "birthDate": "",
+      "hobby": ""
+    },
+    {
+      "id": 3,
+      "image": "",
+      "name": "",
+      "birthDate": "",
+      "hobby": ""
+    },
+    {
+      "id": 4,
+      "image": "",
+      "name": "",
+      "birthDate": "",
+      "hobby": ""
+    },
+    {
+      "id": 5,
+      "image": "",
+      "name": "",
+      "birthDate": "",
+      "hobby": ""
+    },
+    {
+      "id": 6,
+      "image": "",
+      "name": "",
+      "birthDate": "",
+      "hobby": ""
+    },
+    {
+      "id": 7,
+      "image": "",
+      "name": "",
+      "birthDate": "",
+      "hobby": ""
+    },
+    {
+      "id": 8,
+      "image": "",
+      "name": "",
+      "birthDate": "",
+      "hobby": ""
+    },
+    {
+      "id": 9,
+      "image": "",
+      "name": "",
+      "birthDate": "",
+      "hobby": ""
+    },
+    {
+      "id": 10,
+      "image": "",
+      "name": "",
+      "birthDate": "",
+      "hobby": ""
+    },
+    {
+      "id": 11,
+      "image": "",
+      "name": "",
+      "birthDate": "",
+      "hobby": ""
+    },
+    {
+      "id": 12,
+      "image": "",
+      "name": "",
+      "birthDate": "",
+      "hobby": ""
+    },
+    {
+      "id": 13,
+      "image": "",
+      "name": "",
+      "birthDate": "",
+      "hobby": ""
+    },
+    {
+      "id": 14,
+      "image": "",
+      "name": "",
+      "birthDate": "",
+      "hobby": ""
+    },
+    {
+      "id": 15,
+      "image": "",
+      "name": "",
+      "birthDate": "",
+      "hobby": ""
+    },
+    {
+      "id": 16,
+      "image": "",
+      "name": "",
+      "birthDate": "",
+      "hobby": ""
+    },
+    {
+      "id": 17,
+      "image": "",
+      "name": "",
+      "birthDate": "",
+      "hobby": ""
+    },
+    {
+      "id": 18,
+      "image": "",
+      "name": "",
+      "birthDate": "",
+      "hobby": ""
+    },
+    {
+      "id": 19,
+      "image": "",
+      "name": "",
+      "birthDate": "",
+      "hobby": ""
+    },
+    {
+      "id": 20,
+      "image": "",
+      "name": "",
+      "birthDate": "",
+      "hobby": ""
+    }
+  ],
+  "visitors": {
+    "127.0.0.1": {
+      "ip": "127.0.0.1",
+      "firstSeen": "20/10/2026, 08.25.12",
+      "lastSeen": "20/10/2026, 09.02.45",
+      "visitCount": 9,
+      "isBanned": false,
+      "bannedUntil": null
+    },
+    "182.6.161.178": {
+      "ip": "182.6.161.178",
+      "firstSeen": "20/10/2026, 08.26.38",
+      "lastSeen": "20/10/2026, 08.28.14",
+      "visitCount": 8,
+      "isBanned": false,
+      "bannedUntil": null
+    }
+  },
+  "activityLogs": [
+    {
+      "id": "1792486947410-n8s53",
+      "timestamp": "20/10/2026, 09.02.27",
+      "action": "Mengedit Data Murid",
+      "ip": "127.0.0.1",
+      "details": "Mengedit data kotak murid #1 (Given)"
+    },
+    {
+      "id": "1792484834295-2s2xk",
+      "timestamp": "20/10/2026, 08.27.14",
+      "action": "Mengubah Struktur Organisasi Kelas",
+      "ip": "182.6.161.178",
+      "details": "Memperbarui nama kepengurusan kelas 7.1"
+    },
+    {
+      "id": "1792484798143-xcmvl",
+      "timestamp": "20/10/2026, 08.26.38",
+      "action": "Pengunjung Baru Masuk",
+      "ip": "182.6.161.178",
+      "details": "Kunjungan pertama kali ke website kelas."
+    },
+    {
+      "id": "1792484712746-lxqpp",
+      "timestamp": "20/10/2026, 08.25.12",
+      "action": "Pengunjung Baru Masuk",
+      "ip": "127.0.0.1",
+      "details": "Kunjungan pertama kali ke website kelas."
+    },
+    {
+      "id": "init-1",
+      "timestamp": "20/10/2026, 08.24.02",
+      "action": "Sistem diinisialisasi",
+      "ip": "127.0.0.1",
+      "details": "Website kelas berhasil dijalankan."
+    }
+  ]
+}
